@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160069415282",
+    "project_id": "pr20-nastygl-22106",
+    "storage_bucket": "pr20-nastygl-22106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160069415282:android:19d2635e7583bc75e3adeb",
+        "android_client_info": {
+          "package_name": "com.example.pr20_nastygl_22106"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMPC-wCqgzcr11OafO3ZkOPoZq41MUOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
